@@ -1,2 +1,2 @@
 # laravel-demo-app
-https://styleci.io/repos/76268031/shield
+[![StyleCI Status](https://styleci.io/repos/76268031/shield)](https://styleci.io/repos/76268031)
